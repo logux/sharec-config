@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.2.1
+* Fix Travis CI config name.
+
 ## 0.2
 * Add `.npmignore` and `.gitignore`.
 
