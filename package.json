@@ -1,7 +1,7 @@
 {
   "name": "@logux/sharec-config",
   "version": "0.0.0",
-  "description": "An shareable configs for Logux",
+  "description": "Best parctices and configs from Logux projects",
   "keywords": [
     "logux",
     "sharec",
