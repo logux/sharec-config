@@ -1,0 +1,26 @@
+{
+  "name": "@logux/sharec-config",
+  "version": "0.0.0",
+  "description": "An shareable configs for Logux",
+  "keywords": [
+    "logux",
+    "sharec",
+    "sharec-config"
+  ],
+  "scripts": {
+    "postinstall": "sharec install",
+    "preuninstall": "sharec remove"
+  },
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "repository": "logux/sharec-config",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "sharec": "^2.5.0-beta"
+  },
+  "devDependencies": {
+    "clean-publish": "^1.1.2"
+  }
+}
