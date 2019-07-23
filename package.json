@@ -17,6 +17,13 @@
   "engines": {
     "node": ">=8.0.0"
   },
+  "files": [
+    "configs/*",
+    "package.json",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
   "dependencies": {
     "sharec": "^2.5.0-beta"
   },
