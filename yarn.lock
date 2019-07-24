@@ -740,10 +740,10 @@ set-blocking@^2.0.0:
   resolved "https://registry.yarnpkg.com/set-blocking/-/set-blocking-2.0.0.tgz#045f9782d011ae9a6803ddd382b24392b3d890f7"
   integrity sha1-BF+XgtARrppoA93TgrJDkrPYkPc=
 
-sharec@^2.5.0-beta:
-  version "2.5.0-beta"
-  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.5.0-beta.tgz#8ea4650ae497c8f068f6a88fbbf91319206457a2"
-  integrity sha512-ykvBWaWaFag12luarUj14feHpOL/LNGSARLL/qstSYeqOXYRSR19FXd0h328C8UM2vZ3X/L6Cb8Td3N+F2X3hQ==
+sharec@^2.6.0-beta:
+  version "2.6.0-beta"
+  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.6.0-beta.tgz#ca57269205c9e3f6cf209a0fd0dc4cbd331e7cf5"
+  integrity sha512-vwwEh1WrFQcuQCEEuquqnk7mPdrcjIKu3zzo+d5n/JVFo2acz1e/jZrHwygURnJ59ODqoFKiX3xDybp8iXFfaw==
   dependencies:
     boxen "^4.1.0"
     chalk "^2.4.2"
