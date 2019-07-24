@@ -4,7 +4,7 @@
     "spell": "yarn api && yaspeller-ci *.md",
     "clean": "rimraf api.md coverage/",
     "lint": "eslint-ci . --ignore-pattern 'node_modules'",
-    "test": "jest --coverage && yarn lint && yarn spell"
+    "test": "jest --coverage && yarn lint && size-limit && yarn spell"
   },
   "engines": {
     "node": ">=8.0.0"
@@ -28,6 +28,7 @@
     "jest": "^24.8.0",
     "lint-staged": "^9.2.0",
     "rimraf": "^2.6.3",
+    "size-limit": "^1.3.7",
     "yaspeller-ci": "^1.0.1"
   },
   "husky": {
