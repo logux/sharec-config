@@ -5,9 +5,6 @@
     "clean": "rimraf api.md coverage/",
     "test": "jest --coverage && eslint-ci . && size-limit && yarn spell"
   },
-  "engines": {
-    "node": ">=8.0.0"
-  },
   "devDependencies": {
     "@logux/eslint-config": "^29.1.1",
     "clean-publish": "^1.1.2",
