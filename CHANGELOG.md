@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.3.1
+* Remove unnecessary dependency `eslint-plugin-import-helpers`.
+
 ## 0.3
 * Better ESLint ignore.
 * Group values in `.npmignore`.
