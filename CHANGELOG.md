@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.3.3
+* Add `eslint-plugin-prefer-let` dependency for latest ESLint config.
+
 ## 0.3.2
 * Update Sharec and ESLint config.
 
