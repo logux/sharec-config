@@ -224,6 +224,11 @@ define-properties@^1.1.2:
   dependencies:
     object-keys "^1.0.12"
 
+diff@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.1.tgz#0c667cb467ebbb5cea7f14f135cc2dba7780a8ff"
+  integrity sha512-s2+XdvhPCOF01LRQBC8hf4vhbVmI2CGS5aZnxLJlT5FtdhPCDFq80q++zK2KlrVorVDdL5BOGZ/VfLrVtYNF+Q==
+
 emoji-regex@^7.0.1:
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-7.0.3.tgz#933a04052860c85e83c122479c4748a8e4c72156"
@@ -740,15 +745,16 @@ set-blocking@^2.0.0:
   resolved "https://registry.yarnpkg.com/set-blocking/-/set-blocking-2.0.0.tgz#045f9782d011ae9a6803ddd382b24392b3d890f7"
   integrity sha1-BF+XgtARrppoA93TgrJDkrPYkPc=
 
-sharec@^2.6.0-beta:
-  version "2.6.0-beta"
-  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.6.0-beta.tgz#ca57269205c9e3f6cf209a0fd0dc4cbd331e7cf5"
-  integrity sha512-vwwEh1WrFQcuQCEEuquqnk7mPdrcjIKu3zzo+d5n/JVFo2acz1e/jZrHwygURnJ59ODqoFKiX3xDybp8iXFfaw==
+sharec@^2.7.0-beta:
+  version "2.7.0-beta"
+  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.7.0-beta.tgz#681018d56e8a3f859285a094b89799b13123d4c0"
+  integrity sha512-1rDSV1fFuHeVIxf4R4kYs15ykGVNiWm1BhCB6R5u7I02G4DdiWvwQsKVN0WZubqmolwX9yupn4ngVX+oxtmHvQ==
   dependencies:
     boxen "^4.1.0"
     chalk "^2.4.2"
     deep-diff "^1.0.2"
     deepmerge "^3.2.0"
+    diff "^4.0.1"
     fast-glob "^3.0.0"
     js-yaml ">=3.13.1"
     lodash "^4.17.11"
