@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.3.5
+* Update dependencies.
+
 ## 0.3.4
 * Remove trailing new line.
 
