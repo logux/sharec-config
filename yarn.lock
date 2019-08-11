@@ -364,9 +364,9 @@ glob-parent@^5.0.0:
     is-glob "^4.0.1"
 
 graceful-fs@^4.1.2, graceful-fs@^4.1.6:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.0.tgz#8d8fdc73977cb04104721cb53666c1ca64cd328b"
-  integrity sha512-jpSvDPV4Cq/bgtpndIWbI5hmYxhQGHPC4d4cqBPb4DLniCfhJokdXhwhaDuLBGLQdvvRum/UiX6ECVIPvDXqdg==
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.1.tgz#1c1f0c364882c868f5bff6512146328336a11b1d"
+  integrity sha512-b9usnbDGnD928gJB3LrCmxoibr3VE4U2SMo5PBuBnokWyDADTqDPXg4YpwKF1trpH+UbGp7QLicO3+aWEy0+mw==
 
 has-flag@^3.0.0:
   version "3.0.0"
@@ -540,9 +540,9 @@ mem@^4.0.0:
     p-is-promise "^2.0.0"
 
 merge2@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/merge2/-/merge2-1.2.3.tgz#7ee99dbd69bb6481689253f018488a1b902b0ed5"
-  integrity sha512-gdUU1Fwj5ep4kplwcmftruWofEFt6lfpkkr3h860CXbAB9c3hGb55EOL2ali0Td5oebvW0E1+3Sr+Ur7XfKpRA==
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/merge2/-/merge2-1.2.4.tgz#c9269589e6885a60cf80605d9522d4b67ca646e3"
+  integrity sha512-FYE8xI+6pjFOhokZu0We3S5NKCirLbCzSh2Usf3qEyr4X8U+0jNg9P8RZ4qz+V2UoECLVwSyzU3LxXBaLGtD3A==
 
 micromatch@^4.0.2:
   version "4.0.2"
@@ -745,10 +745,10 @@ set-blocking@^2.0.0:
   resolved "https://registry.yarnpkg.com/set-blocking/-/set-blocking-2.0.0.tgz#045f9782d011ae9a6803ddd382b24392b3d890f7"
   integrity sha1-BF+XgtARrppoA93TgrJDkrPYkPc=
 
-sharec@^2.7.0-beta:
-  version "2.7.0-beta"
-  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.7.0-beta.tgz#681018d56e8a3f859285a094b89799b13123d4c0"
-  integrity sha512-1rDSV1fFuHeVIxf4R4kYs15ykGVNiWm1BhCB6R5u7I02G4DdiWvwQsKVN0WZubqmolwX9yupn4ngVX+oxtmHvQ==
+sharec@^2.9.0-beta:
+  version "2.9.0-beta"
+  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.9.0-beta.tgz#ef8b5f568ed5062bbb9c1073ece27323aa909567"
+  integrity sha512-eWYgTiV835thU4WmwbkW2sGy5dLhITaMy1cgxm4eXeVonnb+zrqyCl9leG4yRjkeVvYn2c3iMCkN0CSmTX6Aog==
   dependencies:
     boxen "^4.1.0"
     chalk "^2.4.2"
