@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.4
+* Use new Size Limit 2.0.
+
 ## 0.3.5
 * Update dependencies.
 
