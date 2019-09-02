@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.4.3
+* Remove `node_modules` from `.npmignore`.
+
 ## 0.4.2
 * Remove `eslintIgnore` since `node_modules` is already default value.
 
