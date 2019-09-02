@@ -19,6 +19,7 @@
   },
   "files": [
     "configs/*",
+    "!configs/node_modules",
     "package.json",
     "README.md",
     "CHANGELOG.md",
