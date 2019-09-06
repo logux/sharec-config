@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.4.4
+* Make `lin-stage` config more universal.
+
 ## 0.4.3
 * Remove `node_modules` from `.npmignore`.
 
