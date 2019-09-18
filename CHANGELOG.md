@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.4.5
+* Use Sharec 2.10 with new update strategy.
+
 ## 0.4.4
 * Make `lin-stage` config more universal.
 
