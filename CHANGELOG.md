@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.5.1
+* Use ESLint config 32.0.
+
 ## 0.5
 * Add `.travis.yml` and `.editorconfig`.
 
