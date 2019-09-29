@@ -8,8 +8,7 @@
     "sharec-config"
   ],
   "scripts": {
-    "postinstall": "sharec install",
-    "preuninstall": "sharec remove"
+    "postinstall": "sharec install"
   },
   "author": "Andrey Sitnik <andrey@sitnik.ru>",
   "license": "MIT",
