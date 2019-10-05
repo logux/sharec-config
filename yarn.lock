@@ -648,10 +648,10 @@ set-blocking@^2.0.0:
   resolved "https://registry.yarnpkg.com/set-blocking/-/set-blocking-2.0.0.tgz#045f9782d011ae9a6803ddd382b24392b3d890f7"
   integrity sha1-BF+XgtARrppoA93TgrJDkrPYkPc=
 
-sharec@^2.11.0-beta:
-  version "2.11.0-beta"
-  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.11.0-beta.tgz#eb1469a30f1a291c534b0acfd35f26f5e0bec20f"
-  integrity sha512-/x/aFUO27yZMuVUaUsuZT4sEzvT7ysbExf2XkfCzEURcWSVGCCZrcHCOPuhO2GI6k3lKIn32gtAPi1NwXXvUAw==
+sharec@^2.12.1-beta:
+  version "2.12.1-beta"
+  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.12.1-beta.tgz#cdd06ba1c7e296a5d3a58ab35d3108387bca373f"
+  integrity sha512-n/BUcfchsxDgNbNASK0XzunPy6vbBRUqSDNIZ22ufkUCIMbB9jn/4HbXcNi4sBk3eEbNZnI7V4w38YExzNBZeQ==
   dependencies:
     boxen "^4.1.0"
     chalk "^2.4.2"
