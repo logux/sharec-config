@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.5.5
+* Add Node.js 13 to CI.
+
 ## 0.5.4
 * Use ESLint config 33.0.
 
