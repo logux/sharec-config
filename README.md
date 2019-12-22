@@ -1,7 +1,7 @@
 # Logux Sharec Config
 
 <img align="right" width="95" height="148" title="Logux logotype"
-     src="https://logux.io/logotype.svg">
+     src="https://logux.io/branding/logotype.svg">
 
 [Sharec] config of open source best practices from [Logux] projects.
 
