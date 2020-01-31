@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.5.7
+* Use ESLint config 35.0 and Size Limit 4.0.
+
 ## 0.5.6
 * Use ESLint config 34.0.
 
