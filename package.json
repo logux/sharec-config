@@ -28,6 +28,6 @@
     "sharec": "^2.14.0-beta"
   },
   "devDependencies": {
-    "clean-publish": "^1.1.4"
+    "clean-publish": "^1.1.6"
   }
 }
