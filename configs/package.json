@@ -6,28 +6,27 @@
     "test": "jest --coverage && eslint-ci . && size-limit && yarn spell"
   },
   "devDependencies": {
-    "@logux/eslint-config": "^35.0.3",
-    "@size-limit/preset-small-lib": "^4.0.0",
-    "clean-publish": "^1.1.4",
+    "@logux/eslint-config": "^36.1.1",
+    "@size-limit/preset-small-lib": "^4.3.1",
+    "clean-publish": "^1.1.6",
     "documentation": "^12.1.4",
     "eslint": "^6.8.0",
     "eslint-ci": "^1.0.0",
     "eslint-config-standard": "^14.1.0",
-    "eslint-plugin-es5": "^1.4.1",
-    "eslint-plugin-import": "^2.20.0",
-    "eslint-plugin-jest": "^23.6.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jest": "^23.8.2",
     "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-prefer-let": "^1.0.1",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-security": "^1.4.0",
     "eslint-plugin-standard": "^4.0.1",
-    "eslint-plugin-unicorn": "^15.0.1",
-    "husky": "^4.2.1",
+    "eslint-plugin-unicorn": "^17.2.0",
+    "husky": "^4.2.3",
     "jest": "^25.1.0",
-    "lint-staged": "^10.0.6",
-    "rimraf": "^3.0.1",
-    "size-limit": "^4.0.0",
-    "yaspeller-ci": "^1.0.1"
+    "lint-staged": "^10.0.8",
+    "rimraf": "^3.0.2",
+    "size-limit": "^4.3.1",
+    "yaspeller-ci": "^1.0.2"
   },
   "husky": {
     "hooks": {
@@ -47,7 +46,7 @@
     }
   },
   "eslintConfig": {
-    "extends": "@logux/eslint-config/browser"
+    "extends": "@logux/eslint-config"
   },
   "yaspeller": {
     "lang": "en",
