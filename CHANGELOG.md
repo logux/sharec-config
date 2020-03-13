@@ -1,6 +1,13 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.6
+* Use `dual-publish` instead of `clean-publish`.
+* Add `check-dts`.
+* Add `jest-ci`.
+* Update ESLint config.
+* Remove JSDoc spelling check.
+
 ## 0.5.7
 * Use ESLint config 35.0 and Size Limit 4.0.
 
