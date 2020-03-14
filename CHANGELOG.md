@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.6.2
+* Add `check-dts` to `npm test`.
+
 ## 0.6.1
 * Remove old dependencies.
 
