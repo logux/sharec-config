@@ -2,7 +2,7 @@
   "scripts": {
     "spell": "yaspeller-ci *.md",
     "clean": "rimraf coverage/",
-    "test": "jest-ci --coverage && eslint-ci . && size-limit && yarn spell"
+    "test": "jest-ci --coverage && eslint-ci . && check-dts && size-limit && yarn spell"
   },
   "devDependencies": {
     "@logux/eslint-config": "^36.1.1",
