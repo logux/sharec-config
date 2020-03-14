@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.6.1
+* Remove old dependencies.
+
 ## 0.6
 * Use `dual-publish` instead of `clean-publish`.
 * Add `check-dts`.
