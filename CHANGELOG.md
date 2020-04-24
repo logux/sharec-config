@@ -1,6 +1,10 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.6.3
+* Use `sharec` 2.0.
+* Update dependencies.
+
 ## 0.6.2
 * Add `check-dts` to `npm test`.
 
