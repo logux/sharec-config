@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.7.2
+* Fix `.npmignore` for TypeScript tests.
+
 ## 0.7.1
 * Fix TypeScript support in Jest.
 
