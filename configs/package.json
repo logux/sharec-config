@@ -45,6 +45,7 @@
     "*.js": "eslint --fix"
   },
   "jest": {
+    "preset": "ts-jest",
     "testEnvironment": "node",
     "coverageThreshold": {
       "global": {
