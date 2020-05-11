@@ -5,9 +5,11 @@
     "test": "jest-ci --coverage && eslint-ci . && check-dts && size-limit && yarn spell"
   },
   "devDependencies": {
-    "@logux/eslint-config": "^37.0.0",
+    "@logux/eslint-config": "^37.2.0",
     "@size-limit/dual-publish": "^4.5.0",
     "@size-limit/preset-small-lib": "^4.5.0",
+    "@typescript-eslint/eslint-plugin": "^2.31.0",
+    "@typescript-eslint/parser": "^2.31.0",
     "check-dts": "^0.3.0",
     "dual-publish": "^0.10.2",
     "eslint": "^7.0.0",
@@ -27,6 +29,8 @@
     "lint-staged": "^10.2.2",
     "rimraf": "^3.0.2",
     "size-limit": "^4.5.0",
+    "ts-jest": "^25.5.1",
+    "typescript": "^3.8.3",
     "yaspeller-ci": "^1.0.2"
   },
   "husky": {
@@ -47,8 +51,11 @@
     }
   },
   "eslintConfig": {
-    "extends": "@logux/eslint-config"
+    "extends": "@logux/eslint-config/ts"
   },
+  "eslintIgnore": [
+    "**/errors.ts"
+  ],
   "yaspeller": {
     "lang": "en",
     "ignoreCapitalization": true,
