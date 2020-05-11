@@ -40,7 +40,7 @@
   },
   "lint-staged": {
     "*.md": "yaspeller",
-    "*.js": "eslint"
+    "*.js": "eslint --fix"
   },
   "jest": {
     "testEnvironment": "node",
