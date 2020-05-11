@@ -1,6 +1,9 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.7.1
+* Fix TypeScript support in Jest.
+
 ## 0.7
 * Update ESLint config.
 * Auto-fix ESLint in `precommit` hook.
