@@ -5,7 +5,7 @@
     "test": "jest-ci --coverage && eslint-ci . && check-dts && size-limit && yarn spell"
   },
   "devDependencies": {
-    "@logux/eslint-config": "^37.2.0",
+    "@logux/eslint-config": "^38.0.0",
     "@size-limit/dual-publish": "^4.5.0",
     "@size-limit/preset-small-lib": "^4.5.0",
     "@typescript-eslint/eslint-plugin": "^2.31.0",
@@ -19,6 +19,7 @@
     "eslint-plugin-jest": "^23.10.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prefer-let": "^1.0.1",
+    "eslint-plugin-prettierx": "^0.11.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-security": "^1.4.0",
     "eslint-plugin-standard": "^4.0.1",
