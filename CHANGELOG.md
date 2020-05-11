@@ -1,6 +1,11 @@
 # Change Log
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 7.0
+* Update ESLint config.
+* Auto-fix ESLint in `precommit` hook.
+* Ignore `errors.ts` from ESLint.
+
 ## 0.6.4
 * Reduce npm package size.
 * Clean up `.npmignore`.
