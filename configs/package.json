@@ -42,7 +42,8 @@
   },
   "lint-staged": {
     "*.md": "yaspeller",
-    "*.js": "eslint --fix"
+    "*.js": "eslint --fix",
+    "*.ts": "eslint --fix"
   },
   "jest": {
     "preset": "ts-jest",
