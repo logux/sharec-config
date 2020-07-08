@@ -25,7 +25,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "sharec": "^2.1.2"
+    "sharec": "^2.3.0"
   },
   "devDependencies": {
     "clean-publish": "^1.1.7"
