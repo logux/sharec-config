@@ -1,5 +1,4 @@
 # Change Log
-This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 0.7.4
 * Add `.ts` files to `lint-staged`.
