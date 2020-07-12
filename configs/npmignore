@@ -7,4 +7,3 @@ test/
 **/errors.ts
 tsconfig.json
 coverage/
-CHANGELOG.md
