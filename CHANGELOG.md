@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.7.5
+* Update dependencies.
+
 ## 0.7.4
 * Add `.ts` files to `lint-staged`.
 
