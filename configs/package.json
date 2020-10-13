@@ -8,7 +8,6 @@
     "@logux/eslint-config": "^40.0.0",
     "@size-limit/dual-publish": "^4.5.4",
     "@size-limit/preset-small-lib": "^4.5.4",
-    "@types/jest": "^26.0.4",
     "@typescript-eslint/eslint-plugin": "^3.6.0",
     "@typescript-eslint/parser": "^3.6.0",
     "check-dts": "^0.3.2",
