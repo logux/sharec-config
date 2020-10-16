@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.7.6
+* Fix TypeScript tests on Node.js 10.
+
 ## 0.7.5
 * Update dependencies.
 
