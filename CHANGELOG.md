@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.7.7
+* Add Node.js 15 to Travis CI.
+
 ## 0.7.6
 * Fix TypeScript tests on Node.js 10.
 
