@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.7.8
+* Add `package.types`.
+
 ## 0.7.7
 * Add Node.js 15 to Travis CI.
 
