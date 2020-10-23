@@ -4,6 +4,7 @@
     "clean": "rimraf coverage/",
     "test": "jest-ci --coverage && eslint-ci . && check-dts && size-limit && yarn spell"
   },
+  "types": "index.d.ts",
   "devDependencies": {
     "@logux/eslint-config": "^41.0.2",
     "@size-limit/dual-publish": "^4.6.2",
