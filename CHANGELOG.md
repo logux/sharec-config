@@ -1,13 +1,16 @@
 # Change Log
 
+## 0.7.9
+* Fixed `package.types` path.
+
 ## 0.7.8
-* Add `package.types`.
+* Added `package.types`.
 
 ## 0.7.7
-* Add Node.js 15 to Travis CI.
+* Added Node.js 15 to Travis CI.
 
 ## 0.7.6
-* Fix TypeScript tests on Node.js 10.
+* Fixed TypeScript tests on Node.js 10.
 
 ## 0.7.5
 * Update dependencies.
