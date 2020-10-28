@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.7.10
+* Use `--highlight-less` in Size Limit.
+
 ## 0.7.9
 * Fixed `package.types` path.
 
