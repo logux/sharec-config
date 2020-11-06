@@ -1,8 +1,11 @@
 # Change Log
 
+## 0.8.2
+* Fixed `test` script.
+
 ## 0.8.1
-* Fix versions order in GitHub Actions matrix.
-* Fix GitHub Actions job names.
+* Fixed versions order in GitHub Actions matrix.
+* Fixed GitHub Actions job names.
 
 ## 0.8
 * Moved from Travis CI to GitHub Actions.
