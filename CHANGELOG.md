@@ -1,7 +1,11 @@
 # Change Log
 
+## 0.8
+* Moved from Travis CI to GitHub Actions.
+* Removed `clean` task.
+
 ## 0.7.10
-* Use `--highlight-less` in Size Limit.
+* Used `--highlight-less` in Size Limit.
 
 ## 0.7.9
 * Fixed `package.types` path.
