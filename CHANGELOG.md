@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.8.1
+* Fix versions order in GitHub Actions matrix.
+* Fix GitHub Actions job names.
+
 ## 0.8
 * Moved from Travis CI to GitHub Actions.
 * Removed `clean` task.
