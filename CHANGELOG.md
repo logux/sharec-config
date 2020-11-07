@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.8.3
+* Added caching to CI.
+
 ## 0.8.2
 * Fixed `test` script.
 
