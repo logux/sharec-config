@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.8.4
+* Remove `eslint-plugin-standard` from `peerDependencies`.
+
 ## 0.8.3
 * Added caching to CI.
 
