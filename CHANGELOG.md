@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.8.5
+* Removed `--highlight-less` from Size Limit.
+
 ## 0.8.4
 * Removed `eslint-plugin-standard` from `peerDependencies`.
 
