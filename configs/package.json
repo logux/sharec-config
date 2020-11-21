@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "jest --coverage && eslint . && check-dts && size-limit --highlight-less && yaspeller *.md"
+    "test": "jest --coverage && eslint . && check-dts && size-limit && yaspeller *.md"
   },
   "types": "./index.d.ts",
   "devDependencies": {
