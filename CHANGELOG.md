@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.9
+* Moved from `prettierx` to `prettier`.
+* Moved from `husky` to `simple-git-hooks`.
+* Updated `actions/setup-node`.
+
 ## 0.8.5
 * Removed `--highlight-less` from Size Limit.
 
