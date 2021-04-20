@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.10.1
+* Fixed GitHub Actions job name.
+
 ## 0.10
 * Added Node.js 16.
 * Removed Node.js 10.
