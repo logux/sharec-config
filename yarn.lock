@@ -55,9 +55,9 @@ atob@^2.1.2:
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
 balanced-match@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
-  integrity sha1-ibTRmasr7kneFk6gK4nORi1xt2c=
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
+  integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
 base@^0.11.1:
   version "0.11.2"
@@ -114,10 +114,10 @@ class-utils@^0.3.5:
     isobject "^3.0.0"
     static-extend "^0.1.1"
 
-clean-publish@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/clean-publish/-/clean-publish-2.0.0.tgz#3291c40f9bfe6ee952cad4ae0d1d102f610fcf65"
-  integrity sha512-ue58DIKxbin8+KaRsbUoJbqbWk2YmSd2K/EEB/zSRSDKTyRRo0RvsqzNanZPk30pzqBIjRXOI5zMlDqR13U2Xg==
+clean-publish@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/clean-publish/-/clean-publish-2.1.1.tgz#2286cbcf587d2eb8bac56a771854539c30f6f035"
+  integrity sha512-IO0aLHoeSK23rIJ7Epvb/3wAstsehvJaPi5cv6zQrvmpBHjJ0AaLzbiDlPfxSWBRCQQ8S6UcHk65IMiIyAWI6Q==
   dependencies:
     cross-spawn "^7.0.3"
     fs-extra "^9.1.0"
@@ -131,9 +131,9 @@ cli-cursor@^2.1.0:
     restore-cursor "^2.0.0"
 
 cli-spinners@^2.0.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/cli-spinners/-/cli-spinners-2.5.0.tgz#12763e47251bf951cb75c201dfa58ff1bcb2d047"
-  integrity sha512-PC+AmIuK04E6aeSs/pUccSujsTzBhu4HzC2dL+CfJB/Jcc2qTRbEwZQDfIUpt2Xl8BodYBEq8w4fc0kU2I9DjQ==
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/cli-spinners/-/cli-spinners-2.6.0.tgz#36c7dc98fb6a9a76bd6238ec3f77e2425627e939"
+  integrity sha512-t+4/y50K/+4xcCRosKkA7W4gTr1MySvLV0q+PxmG7FJ5g+66ChKurYjxBCjHggHH3HA5Hh9cy+lcUGWDqVH+4Q==
 
 clone@^1.0.2:
   version "1.0.4"
@@ -498,14 +498,14 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
-js-yaml@>=3.13.1:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.0.0.tgz#f426bc0ff4b4051926cd588c71113183409a121f"
-  integrity sha512-pqon0s+4ScYUvX30wxQi3PogGFAlUyH0awepWvwkj4jD4v+ova3RiYw8bmA6x2rDrEaj8i/oWKoRxpVNW+Re8Q==
+js-yaml@>=3.13.1, js-yaml@^4.0.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.1.0.tgz#c1fb65f8f5017901cdd2c951864ba18458a10602"
+  integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
   dependencies:
     argparse "^2.0.1"
 
-json8@^1.0.1:
+json8@^1.0.1, json8@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/json8/-/json8-1.0.3.tgz#3248f4effbf9b95700fbc3acaa9475b48a15843c"
   integrity sha512-rYGuGgWTmG0dzYwb137fIj5XWiezWBNhlyZpvf7okbHvCQ55X5S+1iuAIfzpPFGTYKkgLI8XX0wjsk/kse4jHA==
@@ -548,7 +548,7 @@ lilconfig@^2.0.2:
   resolved "https://registry.yarnpkg.com/lilconfig/-/lilconfig-2.0.2.tgz#9f802752254697d22a5c33e88d97b7329008c060"
   integrity sha512-4zUThttj8TQ4N7Pps92Z79jPf1OMcll4m61pivQSVk5MT78hVhNa2LrKTuNYD0AGLpmpf7zeIKOxSt6hHBfypw==
 
-lodash@^4.17.15:
+lodash@^4.17.15, lodash@^4.17.20:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
@@ -764,10 +764,30 @@ set-value@^2.0.0, set-value@^2.0.1:
     is-plain-object "^2.0.3"
     split-string "^3.0.1"
 
-sharec@^2.8.1:
-  version "2.8.1"
-  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.8.1.tgz#5487c4e9c2c7060718f1ea703328549a6e6f9682"
-  integrity sha512-0y6MFhryeePHdY2akbs48thvbFA7e1bOf1BM35Nq4H5gpGd29Ww9sFnb3WPA559Dx/ojA58PiNk1Jj9jXN+JLA==
+sharec-schema@^2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/sharec-schema/-/sharec-schema-2.9.0.tgz#ec8e8d8cb25891427d4aea0cc947d6e612f3e0e8"
+  integrity sha512-hcKf6H3qwcDRjNcqY7mfGvX+hJk0mm9FzIYVqG8l3PFD5nOG+HKuWchO5qJSstQuGLIHASMo5YQl9riJwn7oxg==
+  dependencies:
+    js-yaml "^4.0.0"
+    json8 "^1.0.3"
+    lodash "^4.17.20"
+    sharec-utils "^2.9.0"
+
+sharec-utils@^2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/sharec-utils/-/sharec-utils-2.9.0.tgz#2ce96a42eacd27a98582f8453510b1affe5eea8a"
+  integrity sha512-oX/gOJVbTBgFKb/QvJsT/o95OY+eC8IARFF7eY5nwEnxuAk1GX0AA1ZHQDXsNlrRnlSh5iMsboieR0QETX49eg==
+  dependencies:
+    detect-indent "^6.0.0"
+    lodash "^4.17.20"
+    nanomatch "^1.2.13"
+    slash "^3.0.0"
+
+sharec@^2.9.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/sharec/-/sharec-2.9.0.tgz#2ac9f4977bceb3560fb719197e1e5b756afd6fd4"
+  integrity sha512-NO96FJMHEkVtjSS5BltH/Tzw5rXYzX31j7c6X+k36siS1wTKNi2LloyhVG/9xLOdv1+h62gmVoruHcUM57KcXg==
   dependencies:
     chalk "^2.4.2"
     detect-indent "^6.0.0"
@@ -780,6 +800,8 @@ sharec@^2.8.1:
     minimist "^1.2.0"
     nanomatch "^1.2.13"
     ora "^3.4.0"
+    sharec-schema "^2.9.0"
+    sharec-utils "^2.9.0"
     shelljs "^0.8.3"
     slash "^3.0.0"
 
