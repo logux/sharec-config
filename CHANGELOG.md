@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.10
+* Added Node.js 16.
+* Removed Node.js 10.
+
 ## 0.9
 * Moved from `prettierx` to `prettier`.
 * Moved from `husky` to `simple-git-hooks`.
