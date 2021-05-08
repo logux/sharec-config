@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.10.2
+* Reduced npm package size.
+
 ## 0.10.1
 * Fixed GitHub Actions job name.
 
