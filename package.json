@@ -29,6 +29,6 @@
     "sharec": "^2.9.0"
   },
   "devDependencies": {
-    "clean-publish": "^2.1.1"
+    "clean-publish": "^2.2.0"
   }
 }
