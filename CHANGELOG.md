@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.11
+* Replaced `dual-publish` with `clean-publish`.
+* Fixed TypeScript test performance.
+
 ## 0.10.2
 * Reduced npm package size.
 
