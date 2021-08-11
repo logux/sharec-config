@@ -46,6 +46,11 @@
   "jest": {
     "preset": "ts-jest",
     "testEnvironment": "node",
+    "globals": {
+      "ts-jest": {
+        "isolatedModules": true
+      }
+    },
     "coverageThreshold": {
       "global": {
         "statements": 100
