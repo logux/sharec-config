@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.12
+* Moved to Yarn cache from `actions/setup-node`.
+* Reduced package size by cleaning docs.
+
 ## 0.11
 * Replaced `dual-publish` with `clean-publish`.
 * Fixed TypeScript test performance.
