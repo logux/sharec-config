@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.12.1
+* Fixed GitHub Actions config.
+
 ## 0.12
 * Moved to Yarn cache from `actions/setup-node`.
 * Reduced package size by cleaning docs.
