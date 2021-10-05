@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.12.2
+* Added workaround for `actions/setup-node` bug.
+
 ## 0.12.1
 * Fixed GitHub Actions config.
 
