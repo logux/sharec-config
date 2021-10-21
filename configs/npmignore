@@ -2,7 +2,7 @@ yarn-error.log
 yarn.lock
 
 test/
-**/*.test.ts
+**/*.test.*
 **/types.ts
 **/errors.ts
 tsconfig.json
