@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.13
+* Added Node.js 17.
+* Removed ESLint from `pre-commit` hook.
+
 ## 0.12.2
 * Added workaround for `actions/setup-node` bug.
 
