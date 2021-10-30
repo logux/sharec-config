@@ -29,7 +29,7 @@
     "yaspeller": "^8.0.0"
   },
   "simple-git-hooks": {
-    "pre-commit": "npx lint-staged"
+    "pre-commit": "./node_modules/.bin/lint-staged"
   },
   "lint-staged": {
     "*.md": "yaspeller",
