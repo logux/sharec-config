@@ -1,5 +1,8 @@
 # Change Log
 
+## 0.13.1
+* Made `pre-commit` hook faster.
+
 ## 0.13
 * Added Node.js 17.
 * Removed ESLint from `pre-commit` hook.
